@@ -60,43 +60,41 @@ iPlayground is committed to providing a friendly, professional, and inclusive en
 
 ## Mutual Respect
 
-• Respect every participant, regardless of their background, identity, or views.
-• Avoid using offensive language or behavior, including but not limited to remarks about political stance, gender, race, religion, age, appearance, or disability.
-• Always approach others with kindness and empathy.
+- Respect every participant, regardless of their background, identity, or views.
+- Avoid using offensive language or behavior, including but not limited to remarks about political stance, gender, race, religion, age, appearance, or disability.
+- Always approach others with kindness and empathy.
 
 ## Professional Communication
 
-• Maintain an open and professional attitude in all interactions and discussions.
-• Listen respectfully to others’ viewpoints, even if you disagree.
-• When expressing different opinions, focus on ideas rather than personal attributes.
+- Maintain an open and professional attitude in all interactions and discussions.
+- Listen respectfully to others’ viewpoints, even if you disagree.
+- When expressing different opinions, focus on ideas rather than personal attributes.
 
 ## Creating a Safe Environment
 
-• Harassment, threats, or any form of discrimination will not be tolerated.
-• Respect personal space and boundaries of others.
-• If you feel uncomfortable or notice that someone else may be experiencing the same, please contact a staff member immediately.
+- Harassment, threats, or any form of discrimination will not be tolerated.
+- Respect personal space and boundaries of others.
+- If you feel uncomfortable or notice that someone else may be experiencing the same, please contact a staff member immediately.
 
 ## Respect for Intellectual Property
 
-• Do not record audio, video presentations without prior permission.
-• When sharing ideas or works of others, please give appropriate credit.
+- Do not record audio, video presentations without prior permission.
+- When sharing ideas or works of others, please give appropriate credit.
 
 ## Responsible Conduct
 
-• When using social media, apply the same principles of respect and professionalism.
-• Be mindful of your behavior to ensure it does not disrupt others or the event.
+- When using social media, apply the same principles of respect and professionalism.
+- Be mindful of your behavior to ensure it does not disrupt others or the event.
 
 ## Compliance with Venue Rules
 
-• Follow all venue safety regulations and usage guidelines.
-• Please take care of the venue facilities. Smoking is strictly prohibited indoors. Help us keep the environment clean and tidy.
-• Food and drinks are not allowed inside the conference hall. Please enjoy them outside the hall.
-
-⸻
+- Follow all venue safety regulations and usage guidelines.
+- Please take care of the venue facilities. Smoking is strictly prohibited indoors. Help us keep the environment clean and tidy.
+- Food and drinks are not allowed inside the conference hall. Please enjoy them outside the hall.
 
 ## Violation Handling
 
-• If there is a violation of this Code of Conduct, the organizers reserve the right to ask the violator to leave, revoke their participation privileges, or take other appropriate actions. No refund will be provided.
+- If there is a violation of this Code of Conduct, the organizers reserve the right to ask the violator to leave, revoke their participation privileges, or take other appropriate actions. No refund will be provided.
 
 ## Reporting Mechanism
 
