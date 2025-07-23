@@ -18,26 +18,27 @@ iPlayground 致力於為所有參與者提供一個友善、專業、包容的�
 
 - 不容忍任何形式的騷擾、威脅或歧視行為。
 - 尊重他人的個人空間和界限。
-- 如果您感到不舒服或察覺他人遭遇類似情況,請立即向工作人員報告。
+- 如果您感到不舒服或察覺他人遭遇類似情況，請立即聯繫工作人員。
 
 ## 4. 尊重知識產權
 
 - 未經許可，不得錄音、錄影演講內容。
 - 分享他人的想法或作品時，請註明出處。
-  
+
 ## 5. 負責任的行為
 
 - 在使用社交媒體時，請遵守相同的尊重原則。
 - 注意自身行為不影響他人或活動進行。
-  
+
 ## 6. 遵守場地規定
 
 - 請遵守場地的所有安全規定和使用指引。
-- 愛護場地設施，禁止飲食、吸菸，保持環境整潔。
-  
+- 愛護場地設施，室內全面禁止吸菸，保持環境整潔。
+- 會議廳內禁止飲食，如需飲食請至會議廳外。
+
 ## 違規處理
 
-- 如有違反本行為準則的情況，主辦方保留要求違規者離場，取消其參與資格，或採取其他適當措施的權利，且不予退費。
+- 如有違反本行為準則的情況，主辦方保留要求違規者離場，取消其參與資格，或採取其他適當措施的權力，且不予退費。
 
 ## 報告機制
 
@@ -73,7 +74,7 @@ iPlayground is committed to providing a friendly, professional, and inclusive en
 
 • Harassment, threats, or any form of discrimination will not be tolerated.
 • Respect personal space and boundaries of others.
-• If you feel uncomfortable or witness behavior that violates these standards, please report it immediately to a staff member.
+• If you feel uncomfortable or notice that someone else may be experiencing the same, please contact a staff member immediately.
 
 ## Respect for Intellectual Property
 
@@ -83,18 +84,19 @@ iPlayground is committed to providing a friendly, professional, and inclusive en
 ## Responsible Conduct
 
 • When using social media, apply the same principles of respect and professionalism.
-• Consume alcohol responsibly and ensure your behavior does not disrupt others or the event.
+• Be mindful of your behavior to ensure it does not disrupt others or the event.
 
 ## Compliance with Venue Rules
 
 • Follow all venue safety regulations and usage guidelines.
-• Care for venue facilities. Eating, drinking (outside designated areas), and smoking are prohibited. Keep the environment clean and tidy.
+• Please take care of the venue facilities. Smoking is strictly prohibited indoors. Help us keep the environment clean and tidy.
+• Food and drinks are not allowed inside the conference hall. Please enjoy them outside the hall.
 
 ⸻
 
 ## Violation Handling
 
-• In case of any violation of this Code of Conduct, the organizers reserve the right to remove the offender from the event, revoke their participation privileges, or take other appropriate actions without refund.
+• If there is a violation of this Code of Conduct, the organizers reserve the right to ask the violator to leave, revoke their participation privileges, or take other appropriate actions. No refund will be provided.
 
 ## Reporting Mechanism
 
@@ -103,6 +105,3 @@ If you experience or witness any behavior that violates this Code of Conduct, pl
 We are committed to addressing every report seriously and taking appropriate actions.
 
 Thank you for your cooperation. Together, let’s create a positive, professional, and enjoyable iPlayground experience for the iOS community!
-
-
-
